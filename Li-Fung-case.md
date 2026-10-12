@@ -1,6 +1,6 @@
 # Li & Fung Case
 
-The Li & Fung use case illustrates the challenges of using data and AI to improve a supply chain that spans retailers, designers, and manufacturers. The goal is to discover if its digital platform connects business goals to decisions that can actually be made.
+The Li & Fung case illustrates the challenges of using data and AI to improve a supply chain that spans retailers, designers, and manufacturers. The goal is to discover if its digital platform connects business goals to decisions that can actually be made.
 
 ## Background
 
